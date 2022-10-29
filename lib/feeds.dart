@@ -81,7 +81,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                Image.asset('assets/images/8.png'),
+                Image.asset('assets/images/8.jpg'),
                 Padding(
                   padding: const EdgeInsets.all(10),
                   child: Row(
@@ -120,7 +120,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                 Container(
                   padding: EdgeInsets.only(left: 10),
                   child: Text(
-                    '1001 likes',
+                    '1000 likes',
                     style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
                   ),
                 ),
@@ -135,7 +135,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       ),
                       SizedBox(width: 5),
                       Text(
-                        'Sunset Vibes in Kota Tua Jakarta',
+                        'organisasi',
                         style: TextStyle(
                           fontSize: 16,
                         ),
@@ -146,7 +146,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                 Container(
                   padding: EdgeInsets.only(left: 10, top: 5, bottom: 10),
                   child: Text(
-                    '1 YEARS AGO',
+                    '2 YEARS AGO',
                     style: TextStyle(
                         color: Colors.grey,
                         fontSize: 12,
@@ -192,7 +192,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
             Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                Image.asset('assets/images/9.png'),
+                Image.asset('assets/images/9.jpg'),
                 Padding(
                   padding: const EdgeInsets.all(10),
                   child: Row(
@@ -231,7 +231,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                 Container(
                   padding: EdgeInsets.only(left: 10),
                   child: Text(
-                    '999 likes',
+                    '100M likes',
                     style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
                   ),
                 ),
@@ -246,7 +246,7 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       ),
                       SizedBox(width: 5),
                       Text(
-                        'Raja Ampat View',
+                        'futsal',
                         style: TextStyle(
                           fontSize: 16,
                         ),

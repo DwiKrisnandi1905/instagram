@@ -217,10 +217,10 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                     child: Image.asset('assets/images/7.jpg'),
                   ),
                   Container(
-                    child: Image.asset('assets/images/8.png'),
+                    child: Image.asset('assets/images/8.jpg'),
                   ),
                   Container(
-                    child: Image.asset('assets/images/9.png'),
+                    child: Image.asset('assets/images/9.jpg'),
                   ),
                   Container(
                     child: Image.asset('assets/images/10.jpg'),

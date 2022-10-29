@@ -88,12 +88,12 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'thomas_slebew',
+                          'yoga',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
                         Text(
-                          'Thomas Anderson Setiawan',
+                          'maulanaarya',
                           style: TextStyle(
                               fontSize: 14, fontWeight: FontWeight.w500),
                         )
@@ -135,11 +135,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'JamBon',
+                          'ricad',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        Text('James Bond')
+                        Text('agustinusricad')
                       ],
                     ),
                   ],
@@ -178,11 +178,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Indiana_Jones',
+                          'nopal',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        Text('Indiana Jolia Nesia')
+                        Text('naufal')
                       ],
                     ),
                   ],
@@ -221,11 +221,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'David_Kopit76',
+                          'yud',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        Text('David Cortana Pitterson')
+                        Text('yudha')
                       ],
                     ),
                   ],
@@ -264,11 +264,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Joko_Core',
+                          'faris',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        Text('Joko Setiawan')
+                        Text('farisadhi')
                       ],
                     ),
                   ],
@@ -307,11 +307,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'DewiGaga_96',
+                          'feb',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        Text('Dewi Gamelia')
+                        Text('febrian')
                       ],
                     ),
                   ],
@@ -350,11 +350,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'DwiTry',
+                          'dewi',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        Text('Dwi Triyono')
+                        Text('dewimr')
                       ],
                     ),
                   ],
@@ -393,11 +393,11 @@ class _HomeState extends State<Home> with SingleTickerProviderStateMixin {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Tri_Tiga',
+                          'ade',
                           style: TextStyle(
                               fontSize: 16, fontWeight: FontWeight.bold),
                         ),
-                        Text('Tri Waluyo')
+                        Text('adep')
                       ],
                     ),
                   ],
